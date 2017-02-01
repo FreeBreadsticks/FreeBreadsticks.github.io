@@ -12,7 +12,7 @@ I think I've always been a nerd. Since I can remember I have loved to learn, rea
 
 ![](http://17rg073sukbm1lmjk9jrehb643.wpengine.netdna-cdn.com/wp-content/uploads/2014/04/sheik2.jpg)
 
-##*I loved learning the songs*
+## I loved learning the songs
 
 Coding - the new gaming
 
@@ -20,7 +20,7 @@ Coding has become my *new game* of sorts. It forces me out of my comfort zone (t
 
 ![](http://i.imgur.com/KspV3Ao.jpg)
 
-##*me trying not to panic*
+## me trying not to panic
 
 But, why?
 
@@ -28,4 +28,4 @@ Feelings and history behind, there is a lot of opportunity. Software devs are hi
 
 ![](http://i.imgur.com/0un1clT.jpg)
 
-##*the future is wide open!*
+## the future is wide open!
