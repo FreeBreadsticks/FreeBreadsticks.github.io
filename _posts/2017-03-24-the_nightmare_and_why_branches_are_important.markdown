@@ -7,7 +7,7 @@ date:   2017-03-24 12:51:51 -0400
 
 This past week I encountered one of the most terrifying experiences in coding. I had a complete working project, a project I had spent hours building and designing and cultivating. One that when it was complete, I couldn't have felt more proud! I had created a CLI Data Gem, one that scraped information from a website and listed it out for the user. I had never done anything quite like that and I did it all on my own from scratch. I was on top of the world. I got this coding stuff! I even got as far as publishing my baby gem to Ruby Gems! (which you can find here: https://rubygems.org/gems/orlando_events )
 
-**In in instant it changed.**
+**In an instant it changed.**
 
 I pushed my code back into git and then ran my program one last time just to bask in the beauty. This is what I was greeted with:
 ![](http://i.imgur.com/q0gqFRH.pnghttp://)
@@ -19,7 +19,7 @@ I stared at my screen, mouth agape.
 Ok that's weird but maybe a bundle install would fix this?
 ![](http://i.imgur.com/OE8e3VZ.png)
 
-I was horrified as I felt my world crashing down around me. I should have known not to get too cocky. "Ok, fine, I'm sure this happens all the time!" I said to myself as I opened up google. I started going through some of the results, even out the gate it really didn't look to promising. I went through a couple of posts and they all seemed for more advanced than what I was capable of and I wasn't sure exactly how I was going to end up tackling this. I got scared and decided on a different route. I can rollback to one of my previous working commits! I knew I had a working push from a day ago so I figured that would be the place to start and it was something I could wrap my head around. I some how got the idea I would work in two separate project states as well. Considering I wasn't sure exactly what would fix this I would roll back one project and keep another at the broken state. I ran 
+I was horrified as I felt my world crashing down around me. I should have known not to get too cocky. "Ok, fine, I'm sure this happens all the time!" I said to myself as I opened up google. I started going through some of the results, even out the gate it really didn't look to promising. I went through a couple of posts and they all seemed far more advanced than what I was capable of and I wasn't sure exactly how I was going to end up tackling this. I got scared and decided on a different route. I can rollback to one of my previous working commits! I knew I had a working push from a day ago so I figured that would be the place to start and it was something I could wrap my head around. I some how got the idea I would work in two separate project states as well. Considering I wasn't sure exactly what would fix this I would roll back one project and keep another at the broken state. I ran 
 
 `$ git push -f origin last_known_good_commit:branch_name` 
 
