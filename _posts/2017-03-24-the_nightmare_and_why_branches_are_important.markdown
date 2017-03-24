@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Nightmare and Why Branches Are Important"
-date:   2017-03-24 16:51:50 +0000
+date:   2017-03-24 12:51:51 -0400
 ---
 
 
@@ -14,7 +14,7 @@ I pushed my code back into git and then ran my program one last time just to bas
 
 I stared at my screen, mouth agape.
 
-`"The validation error was 'orlando_events-0.1.5 contains itself (orlando_events-01.5.gemspec)"`
+`"The validation error was 'orlando_events-0.1.5 contains itself (orlando_events-01.5.gemspec) check your file list"`
 
 Ok that's weird but maybe a bundle install would fix this?
 ![](http://i.imgur.com/OE8e3VZ.png)
