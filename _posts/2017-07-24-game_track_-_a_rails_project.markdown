@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Game Track - a Rails Project"
-date:   2017-07-24 00:48:15 +0000
+title:  "Game Tracker - a Rails Project"
+date:   2017-07-23 20:48:15 -0400
 ---
 
 
