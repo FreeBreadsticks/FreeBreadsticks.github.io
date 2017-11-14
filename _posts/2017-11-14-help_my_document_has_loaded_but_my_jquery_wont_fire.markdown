@@ -16,7 +16,7 @@ Fret not, there's a happy ending! After finishing the JS section and moving onto
 
 **On to the project**
 
-So now we're here. I feel pretty comfortable with JS, no longer intimidated by it or distracted with anger. I know how to mess about with the code enough to deal with JS's fussy and seemingly unpredictable behavior. I began working on refactoring my previous Rails project to include jQuery and AJAX! How exciting! The Rails project I've been working on is a private library to help users manage their video game collection. You can find it here: [](https://github.com/FreeBreadsticks/game_library)
+So now we're here. I feel pretty comfortable with JS, no longer intimidated by it or distracted with anger. I know how to mess about with the code enough to deal with JS's fussy and seemingly unpredictable behavior. I began working on refactoring my previous Rails project to include jQuery and AJAX! How exciting! The Rails project I've been working on is a private library to help users manage their video game collection. You can find it here:  https://github.com/FreeBreadsticks/game_library
 
 Now comfortable with JS syntax and API concepts, I didn't struggle too much understanding how to approach meeting the requirements. However, this didn't prevent me from running into trouble(of course)! The first thing I attempted to get working was displaying a user's screenshots. Everything seemed to be fine until I noticed something strange was happening. When clicking the link to bring you to the user show page it would initially work as expected and the images would load on the screen. However, if you clicked the link to the user show page again the images disappeared. In fact, the only way to get them to come back was to refresh the page.
 
