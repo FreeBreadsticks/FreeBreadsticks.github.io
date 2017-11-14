@@ -14,7 +14,7 @@ Ok quick disclosure before I jump into my project: I really did not like JavaScr
 
 Fret not, there's a happy ending! After finishing the JS section and moving onto React I was able to see the patterns emerge. I could visualize how the pieces connect. I finally understood what the actual goals were when learning JS. Or maybe I just became accustomed to the nuances of JS. Either way, I stopped raging and started rolling my eyes when my code failed. 
 
-##### On to the project
+**On to the project**
 
 So now we're here. I feel pretty comfortable with JS, no longer intimidated by it or distracted with anger. I know how to mess about with the code enough to deal with JS's fussy and seemingly unpredictable behavior. I began working on refactoring my previous Rails project to include jQuery and AJAX! How exciting! The Rails project I've been working on is a private library to help users manage their video game collection. You can find it here: [](https://github.com/FreeBreadsticks/game_library)
 
@@ -26,7 +26,7 @@ Now comfortable with JS syntax and API concepts, I didn't struggle too much unde
 
 *my reaction 99% of the time when working in JS*
 
-### Tackling the problem
+**Tackling the problem**
 
 So, of course, I originally chalked this up to JS being the cheeky language it is. I incorrectly assumed it was some stupid syntax problem. So, like a good developer, I began googling around. Interestingly enough, there were plenty of people with the same issue. However, the core of their problems centered around their syntax being incorrect. After double and triple checking my code, I couldn't find any syntactical errors. So, I turned to a friend. When in doubt, pair program it out! (I’ll see myself out.) After spending far too much time rewriting the same function about 30 times we still came across the same issues. After getting literally no where, we decided to take a break and come back to it. 
 
