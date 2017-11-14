@@ -14,7 +14,7 @@ Ok quick disclosure before I jump into my project: I really did not like JavaScr
 
 Fret not, there's a happy ending! After finishing the JS section and moving onto React I was able to see the patterns emerge. I could visualize how the pieces connect. I finally understood what the actual goals were when learning JS. Or maybe I just became accustomed to the nuances of JS. Either way, I stopped raging and started rolling my eyes when my code failed. 
 
-## On to the project
+##### On to the project
 
 So now we're here. I feel pretty comfortable with JS, no longer intimidated by it or distracted with anger. I know how to mess about with the code enough to deal with JS's fussy and seemingly unpredictable behavior. I began working on refactoring my previous Rails project to include jQuery and AJAX! How exciting! The Rails project I've been working on is a private library to help users manage their video game collection. You can find it here: [](https://github.com/FreeBreadsticks/game_library)
 
