@@ -6,7 +6,7 @@ permalink:  help_my_document_has_loaded_but_my_jquery_wont_fire
 ---
 
 
-Ok quick disclosure before I jump into my project: I really did not like JavaScript while I was learning it. After working almost exclusively with Ruby/Rails moving into JavaScript was jarring. Ruby is such a sweet, nice, easy-to-anticipate language compared to JS. I must have rage quit 20+ times going through my lessons. I felt like I was playing guessing games half the time I was writing code. There didn't seem to be any patterns or rules, it was just "run it and see if it works! Ok great it does! Not sure how, but we're moving on!" For someone like me, this was extremely frustrating. I once again felt like I had no idea had to code. 
+Ok quick disclosure before I jump into my project: I really did not like JavaScript while I was learning it. After working almost exclusively with Ruby/Rails moving into JavaScript was jarring. Ruby is such a sweet, nice, easy-to-anticipate language compared to JS. I must have rage quit 20+ times going through my lessons. I felt like I was playing guessing games half the time I was writing code. There didn't seem to be any patterns or rules, it was just "run it and see if it works! Ok great it does! Not sure how, but we're moving on!" For someone like me, this was extremely frustrating. I once again felt like I had no idea how to code. 
 
 ![](https://pics.me.me/most-people-rejected-his-message-javascript-sucks-shut-up-they-28664127.png)
 
@@ -18,7 +18,7 @@ Fret not, there's a happy ending! After finishing the JS section and moving onto
 
 So now we're here. I feel pretty comfortable with JS, no longer intimidated by it or distracted with anger. I know how to mess about with the code enough to deal with JS's fussy and seemingly unpredictable behavior. I began working on refactoring my previous Rails project to include jQuery and AJAX! How exciting! The Rails project I've been working on is a private library to help users manage their video game collection. You can find it here: [](https://github.com/FreeBreadsticks/game_library)
 
-Now comfortable with JS syntax and API concepts, I didn't struggle too much understanding how to approach meeting the requirements. However, this didn't prevent me from running intro trouble(of course)! The first thing I attempted to get working was displaying a user's screenshots. Everything seemed to be fine until I noticed something strange was happening. When clicking the link to bring you to the user show page it would initially work as expected and the images would load on the screen. However, if you clicked the link to the user show page again the images disappeared. In fact, the only way to get them to come back was to refresh the page.
+Now comfortable with JS syntax and API concepts, I didn't struggle too much understanding how to approach meeting the requirements. However, this didn't prevent me from running into trouble(of course)! The first thing I attempted to get working was displaying a user's screenshots. Everything seemed to be fine until I noticed something strange was happening. When clicking the link to bring you to the user show page it would initially work as expected and the images would load on the screen. However, if you clicked the link to the user show page again the images disappeared. In fact, the only way to get them to come back was to refresh the page.
 
 ..Uhhhm...what??
 
